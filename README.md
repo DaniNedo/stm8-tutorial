@@ -1,2 +1,2 @@
 # stm8
-STM8 bare metal programming 
+Have you ever wanted to understand the magic that links firmware and hadware? I did.
